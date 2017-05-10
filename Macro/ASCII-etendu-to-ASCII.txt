@@ -3,362 +3,362 @@ ColumnModeOff
 HexOff
 UltraEditReOn
 Top
-Find "€"
+Find MatchCase "€"
 Replace All "E"
 Top
-Find "ƒ"
+Find MatchCase "ƒ"
 Replace All "f"
 Top
-Find """
+Find MatchCase """
 Replace All """
 Top
-Find "†"
+Find MatchCase "†"
 Replace All "?"
 Top
-Find "‡"
+Find MatchCase "‡"
 Replace All "?"
 Top
-Find "^"
+Find MatchCase "^"
 Replace All "?"
 Top
-Find "‰"
+Find MatchCase "‰"
 Replace All "%"
 Top
-Find "Š"
+Find MatchCase "Š"
 Replace All "S"
 Top
-Find "‹"
+Find MatchCase "‹"
 Replace All "-"
 Top
-Find "Œ"
+Find MatchCase "Œ"
 Replace All "e"
 Top
-Find "Œ"
+Find MatchCase "Œ"
 Replace All "E"
 Top
-Find "Ž"
+Find MatchCase "Ž"
 Replace All "Z"
 Top
-Find "‘"
+Find MatchCase "‘"
 Replace All "'"
 Top
-Find "’"
+Find MatchCase "’"
 Replace All "'"
 Top
-Find "“"
+Find MatchCase "“"
 Replace All """
 Top
-Find "”"
+Find MatchCase "”"
 Replace All """
 Top
-Find "•"
+Find MatchCase "•"
 Replace All "."
 Top
-Find "–"
+Find MatchCase "–"
 Replace All "-"
 Top
-Find "—"
+Find MatchCase "—"
 Replace All "-"
 Top
-Find "˜"
+Find MatchCase "˜"
 Replace All "?"
 Top
-Find "™"
+Find MatchCase "™"
 Replace All "?"
 Top
-Find "š"
+Find MatchCase "š"
 Replace All "s"
 Top
-Find "›"
+Find MatchCase "›"
 Replace All "-"
 Top
-Find "œ"
+Find MatchCase "œ"
 Replace All "e"
 Top
-Find "ž"
+Find MatchCase "ž"
 Replace All "z"
 Top
-Find "Ÿ"
+Find MatchCase "Ÿ"
 Replace All "Y"
 Top
-Find "¡"
+Find MatchCase "¡"
 Replace All "i"
 Top
-Find "¢"
+Find MatchCase "¢"
 Replace All "c"
 Top
-Find "£"
+Find MatchCase "£"
 Replace All "L"
 Top
-Find "¤"
+Find MatchCase "¤"
 Replace All "x"
 Top
-Find "¥"
+Find MatchCase "¥"
 Replace All "Y"
 Top
-Find "¦"
+Find MatchCase "¦"
 Replace All "|"
 Top
-Find "§"
+Find MatchCase "§"
 Replace All "?"
 Top
-Find "¨"
+Find MatchCase "¨"
 Replace All "?"
 Top
-Find "©"
+Find MatchCase "©"
 Replace All "C"
 Top
-Find "ª"
+Find MatchCase "ª"
 Replace All "a"
 Top
-Find "«"
+Find MatchCase "«"
 Replace All """
 Top
-Find "¬"
+Find MatchCase "¬"
 Replace All "-"
 Top
-Find "®"
+Find MatchCase "®"
 Replace All "R"
 Top
-Find "¯"
+Find MatchCase "¯"
 Replace All "-"
 Top
-Find "°"
+Find MatchCase "°"
 Replace All "o"
 Top
-Find "±"
+Find MatchCase "±"
 Replace All "?"
 Top
-Find "²"
+Find MatchCase "²"
 Replace All "2"
 Top
-Find "³"
+Find MatchCase "³"
 Replace All "3"
 Top
-Find "´"
+Find MatchCase "´"
 Replace All "'"
 Top
-Find "µ"
+Find MatchCase "µ"
 Replace All "u"
 Top
-Find "¶"
+Find MatchCase "¶"
 Replace All " "
 Top
-Find "·"
+Find MatchCase "·"
 Replace All "."
 Top
-Find "¸"
+Find MatchCase "¸"
 Replace All ","
 Top
-Find "¹"
+Find MatchCase "¹"
 Replace All "1"
 Top
-Find "º"
+Find MatchCase "º"
 Replace All "o"
 Top
-Find "»"
+Find MatchCase "»"
 Replace All """
 Top
-Find "¼"
+Find MatchCase "¼"
 Replace All "?"
 Top
-Find "½"
+Find MatchCase "½"
 Replace All "?"
 Top
-Find "¾"
+Find MatchCase "¾"
 Replace All "?"
 Top
-Find "¿"
+Find MatchCase "¿"
 Replace All "?"
 Top
-Find "À"
+Find MatchCase "À"
 Replace All "A"
 Top
-Find "Á"
+Find MatchCase "Á"
 Replace All "A"
 Top
-Find "Â"
+Find MatchCase "Â"
 Replace All "A"
 Top
-Find "Ã"
+Find MatchCase "Ã"
 Replace All "A"
 Top
-Find "Ä"
+Find MatchCase "Ä"
 Replace All "A"
 Top
-Find "Å"
+Find MatchCase "Å"
 Replace All "A"
 Top
-Find "Æ"
+Find MatchCase "Æ"
 Replace All "A"
 Top
-Find "Ç"
+Find MatchCase "Ç"
 Replace All "C"
 Top
-Find "È"
+Find MatchCase "È"
 Replace All "E"
 Top
-Find "É"
+Find MatchCase "É"
 Replace All "E"
 Top
-Find "Ê"
+Find MatchCase "Ê"
 Replace All "E"
 Top
-Find "Ë"
+Find MatchCase "Ë"
 Replace All "E"
 Top
-Find "Ì"
+Find MatchCase "Ì"
 Replace All "I"
 Top
-Find "Í"
+Find MatchCase "Í"
 Replace All "I"
 Top
-Find "Î"
+Find MatchCase "Î"
 Replace All "I"
 Top
-Find "Ï"
+Find MatchCase "Ï"
 Replace All "I"
 Top
-Find "Ð"
+Find MatchCase "Ð"
 Replace All "D"
 Top
-Find "Ñ"
+Find MatchCase "Ñ"
 Replace All "N"
 Top
-Find "Ò"
+Find MatchCase "Ò"
 Replace All "O"
 Top
-Find "Ó"
+Find MatchCase "Ó"
 Replace All "O"
 Top
-Find "Ô"
+Find MatchCase "Ô"
 Replace All "O"
 Top
-Find "Õ"
+Find MatchCase "Õ"
 Replace All "O"
 Top
-Find "Ö"
+Find MatchCase "Ö"
 Replace All "O"
 Top
-Find "×"
+Find MatchCase "×"
 Replace All "x"
 Top
-Find "Ø"
+Find MatchCase "Ø"
 Replace All "O"
 Top
-Find "Ù"
+Find MatchCase "Ù"
 Replace All "U"
 Top
-Find "Ú"
+Find MatchCase "Ú"
 Replace All "U"
 Top
-Find "Û"
+Find MatchCase "Û"
 Replace All "U"
 Top
-Find "Ü"
+Find MatchCase "Ü"
 Replace All "U"
 Top
-Find "Ý"
+Find MatchCase "Ý"
 Replace All "Y"
 Top
-Find "Þ"
+Find MatchCase "Þ"
 Replace All "p"
 Top
-Find "ß"
+Find MatchCase "ß"
 Replace All "B"
 Top
-Find "à"
+Find MatchCase "à"
 Replace All "a"
 Top
-Find "á"
+Find MatchCase "á"
 Replace All "á"
 Top
-Find "â"
+Find MatchCase "â"
 Replace All "a"
 Top
-Find "ã"
+Find MatchCase "ã"
 Replace All "a"
 Top
-Find "ä"
+Find MatchCase "ä"
 Replace All "a"
 Top
-Find "å"
+Find MatchCase "å"
 Replace All "a"
 Top
-Find "æ"
+Find MatchCase "æ"
 Replace All "e"
 Top
-Find "ç"
+Find MatchCase "ç"
 Replace All "c"
 Top
-Find "è"
+Find MatchCase "è"
 Replace All "e"
 Top
-Find "é"
+Find MatchCase "é"
 Replace All "e"
 Top
-Find "ê"
+Find MatchCase "ê"
 Replace All "e"
 Top
-Find "ë"
+Find MatchCase "ë"
 Replace All "e"
 Top
-Find "ì"
+Find MatchCase "ì"
 Replace All "i"
 Top
-Find "í"
+Find MatchCase "í"
 Replace All "i"
 Top
-Find "î"
+Find MatchCase "î"
 Replace All "i"
 Top
-Find "ï"
+Find MatchCase "ï"
 Replace All "i"
 Top
-Find "ð"
+Find MatchCase "ð"
 Replace All "a"
 Top
-Find "ñ"
+Find MatchCase "ñ"
 Replace All "n"
 Top
-Find "ò"
+Find MatchCase "ò"
 Replace All "o"
 Top
-Find "ó"
+Find MatchCase "ó"
 Replace All "o"
 Top
-Find "ô"
+Find MatchCase "ô"
 Replace All "o"
 Top
-Find "õ"
+Find MatchCase "õ"
 Replace All "o"
 Top
-Find "ö"
+Find MatchCase "ö"
 Replace All "o"
 Top
-Find "÷"
+Find MatchCase "÷"
 Replace All "/"
 Top
-Find "ø"
+Find MatchCase "ø"
 Replace All "o"
 Top
-Find "ù"
+Find MatchCase "ù"
 Replace All "u"
 Top
-Find "ú"
+Find MatchCase "ú"
 Replace All "u"
 Top
-Find "û"
+Find MatchCase "û"
 Replace All "u"
 Top
-Find "ü"
+Find MatchCase "ü"
 Replace All "u"
 Top
-Find "ý"
+Find MatchCase "ý"
 Replace All "y"
 Top
-Find "þ"
+Find MatchCase "þ"
 Replace All "P"
 Top
-Find "ÿ"
+Find MatchCase "ÿ"
 Replace All "y"
