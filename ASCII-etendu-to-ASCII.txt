@@ -1,1 +1,364 @@
-DEL ASCII étendu
+InsertMode
+ColumnModeOff
+HexOff
+UltraEditReOn
+Top
+Find "€"
+Replace All "E"
+Top
+Find "ƒ"
+Replace All "f"
+Top
+Find """
+Replace All """
+Top
+Find "†"
+Replace All "?"
+Top
+Find "‡"
+Replace All "?"
+Top
+Find "^"
+Replace All "?"
+Top
+Find "‰"
+Replace All "%"
+Top
+Find "Š"
+Replace All "S"
+Top
+Find "‹"
+Replace All "-"
+Top
+Find "Œ"
+Replace All "e"
+Top
+Find "Œ"
+Replace All "E"
+Top
+Find "Ž"
+Replace All "Z"
+Top
+Find "‘"
+Replace All "'"
+Top
+Find "’"
+Replace All "'"
+Top
+Find "“"
+Replace All """
+Top
+Find "”"
+Replace All """
+Top
+Find "•"
+Replace All "."
+Top
+Find "–"
+Replace All "-"
+Top
+Find "—"
+Replace All "-"
+Top
+Find "˜"
+Replace All "?"
+Top
+Find "™"
+Replace All "?"
+Top
+Find "š"
+Replace All "s"
+Top
+Find "›"
+Replace All "-"
+Top
+Find "œ"
+Replace All "e"
+Top
+Find "ž"
+Replace All "z"
+Top
+Find "Ÿ"
+Replace All "Y"
+Top
+Find "¡"
+Replace All "i"
+Top
+Find "¢"
+Replace All "c"
+Top
+Find "£"
+Replace All "L"
+Top
+Find "¤"
+Replace All "x"
+Top
+Find "¥"
+Replace All "Y"
+Top
+Find "¦"
+Replace All "|"
+Top
+Find "§"
+Replace All "?"
+Top
+Find "¨"
+Replace All "?"
+Top
+Find "©"
+Replace All "C"
+Top
+Find "ª"
+Replace All "a"
+Top
+Find "«"
+Replace All """
+Top
+Find "¬"
+Replace All "-"
+Top
+Find "®"
+Replace All "R"
+Top
+Find "¯"
+Replace All "-"
+Top
+Find "°"
+Replace All "o"
+Top
+Find "±"
+Replace All "?"
+Top
+Find "²"
+Replace All "2"
+Top
+Find "³"
+Replace All "3"
+Top
+Find "´"
+Replace All "'"
+Top
+Find "µ"
+Replace All "u"
+Top
+Find "¶"
+Replace All " "
+Top
+Find "·"
+Replace All "."
+Top
+Find "¸"
+Replace All ","
+Top
+Find "¹"
+Replace All "1"
+Top
+Find "º"
+Replace All "o"
+Top
+Find "»"
+Replace All """
+Top
+Find "¼"
+Replace All "?"
+Top
+Find "½"
+Replace All "?"
+Top
+Find "¾"
+Replace All "?"
+Top
+Find "¿"
+Replace All "?"
+Top
+Find "À"
+Replace All "A"
+Top
+Find "Á"
+Replace All "A"
+Top
+Find "Â"
+Replace All "A"
+Top
+Find "Ã"
+Replace All "A"
+Top
+Find "Ä"
+Replace All "A"
+Top
+Find "Å"
+Replace All "A"
+Top
+Find "Æ"
+Replace All "A"
+Top
+Find "Ç"
+Replace All "C"
+Top
+Find "È"
+Replace All "E"
+Top
+Find "É"
+Replace All "E"
+Top
+Find "Ê"
+Replace All "E"
+Top
+Find "Ë"
+Replace All "E"
+Top
+Find "Ì"
+Replace All "I"
+Top
+Find "Í"
+Replace All "I"
+Top
+Find "Î"
+Replace All "I"
+Top
+Find "Ï"
+Replace All "I"
+Top
+Find "Ð"
+Replace All "D"
+Top
+Find "Ñ"
+Replace All "N"
+Top
+Find "Ò"
+Replace All "O"
+Top
+Find "Ó"
+Replace All "O"
+Top
+Find "Ô"
+Replace All "O"
+Top
+Find "Õ"
+Replace All "O"
+Top
+Find "Ö"
+Replace All "O"
+Top
+Find "×"
+Replace All "x"
+Top
+Find "Ø"
+Replace All "O"
+Top
+Find "Ù"
+Replace All "U"
+Top
+Find "Ú"
+Replace All "U"
+Top
+Find "Û"
+Replace All "U"
+Top
+Find "Ü"
+Replace All "U"
+Top
+Find "Ý"
+Replace All "Y"
+Top
+Find "Þ"
+Replace All "p"
+Top
+Find "ß"
+Replace All "B"
+Top
+Find "à"
+Replace All "a"
+Top
+Find "á"
+Replace All "á"
+Top
+Find "â"
+Replace All "a"
+Top
+Find "ã"
+Replace All "a"
+Top
+Find "ä"
+Replace All "a"
+Top
+Find "å"
+Replace All "a"
+Top
+Find "æ"
+Replace All "e"
+Top
+Find "ç"
+Replace All "c"
+Top
+Find "è"
+Replace All "e"
+Top
+Find "é"
+Replace All "e"
+Top
+Find "ê"
+Replace All "e"
+Top
+Find "ë"
+Replace All "e"
+Top
+Find "ì"
+Replace All "i"
+Top
+Find "í"
+Replace All "i"
+Top
+Find "î"
+Replace All "i"
+Top
+Find "ï"
+Replace All "i"
+Top
+Find "ð"
+Replace All "a"
+Top
+Find "ñ"
+Replace All "n"
+Top
+Find "ò"
+Replace All "o"
+Top
+Find "ó"
+Replace All "o"
+Top
+Find "ô"
+Replace All "o"
+Top
+Find "õ"
+Replace All "o"
+Top
+Find "ö"
+Replace All "o"
+Top
+Find "÷"
+Replace All "/"
+Top
+Find "ø"
+Replace All "o"
+Top
+Find "ù"
+Replace All "u"
+Top
+Find "ú"
+Replace All "u"
+Top
+Find "û"
+Replace All "u"
+Top
+Find "ü"
+Replace All "u"
+Top
+Find "ý"
+Replace All "y"
+Top
+Find "þ"
+Replace All "P"
+Top
+Find "ÿ"
+Replace All "y"
