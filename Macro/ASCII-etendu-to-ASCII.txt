@@ -261,3 +261,4 @@ Find MatchCase "A0"
 Replace All "20"
 Find MatchCase "AD"
 Replace All "20"
+HexOff
