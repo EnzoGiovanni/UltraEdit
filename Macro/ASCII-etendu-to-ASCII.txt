@@ -2,363 +2,262 @@ InsertMode
 ColumnModeOff
 HexOff
 UltraEditReOn
-Top
 Find MatchCase "€"
 Replace All "E"
-Top
 Find MatchCase "ƒ"
 Replace All "f"
-Top
 Find MatchCase """
 Replace All """
-Top
 Find MatchCase "†"
 Replace All "?"
-Top
 Find MatchCase "‡"
 Replace All "?"
-Top
 Find MatchCase "^"
 Replace All "?"
-Top
 Find MatchCase "‰"
 Replace All "%"
-Top
 Find MatchCase "Š"
 Replace All "S"
-Top
 Find MatchCase "‹"
 Replace All "-"
-Top
 Find MatchCase "Œ"
 Replace All "e"
-Top
 Find MatchCase "Œ"
 Replace All "E"
-Top
 Find MatchCase "Ž"
 Replace All "Z"
-Top
 Find MatchCase "‘"
 Replace All "'"
-Top
 Find MatchCase "’"
 Replace All "'"
-Top
 Find MatchCase "“"
 Replace All """
-Top
 Find MatchCase "”"
 Replace All """
-Top
 Find MatchCase "•"
 Replace All "."
-Top
 Find MatchCase "–"
 Replace All "-"
-Top
 Find MatchCase "—"
 Replace All "-"
-Top
 Find MatchCase "˜"
 Replace All "?"
-Top
 Find MatchCase "™"
 Replace All "?"
-Top
 Find MatchCase "š"
 Replace All "s"
-Top
 Find MatchCase "›"
 Replace All "-"
-Top
 Find MatchCase "œ"
 Replace All "e"
-Top
 Find MatchCase "ž"
 Replace All "z"
-Top
 Find MatchCase "Ÿ"
 Replace All "Y"
-Top
 Find MatchCase "¡"
 Replace All "i"
-Top
 Find MatchCase "¢"
 Replace All "c"
-Top
 Find MatchCase "£"
 Replace All "L"
-Top
 Find MatchCase "¤"
 Replace All "x"
-Top
 Find MatchCase "¥"
 Replace All "Y"
-Top
 Find MatchCase "¦"
 Replace All "|"
-Top
 Find MatchCase "§"
 Replace All "?"
-Top
 Find MatchCase "¨"
 Replace All "?"
-Top
 Find MatchCase "©"
 Replace All "C"
-Top
 Find MatchCase "ª"
 Replace All "a"
-Top
 Find MatchCase "«"
 Replace All """
-Top
 Find MatchCase "¬"
 Replace All "-"
-Top
 Find MatchCase "®"
 Replace All "R"
-Top
 Find MatchCase "¯"
 Replace All "-"
-Top
 Find MatchCase "°"
 Replace All "o"
-Top
 Find MatchCase "±"
 Replace All "?"
-Top
 Find MatchCase "²"
 Replace All "2"
-Top
 Find MatchCase "³"
 Replace All "3"
-Top
 Find MatchCase "´"
 Replace All "'"
-Top
 Find MatchCase "µ"
 Replace All "u"
-Top
 Find MatchCase "¶"
 Replace All " "
-Top
 Find MatchCase "·"
 Replace All "."
-Top
 Find MatchCase "¸"
 Replace All ","
-Top
 Find MatchCase "¹"
 Replace All "1"
-Top
 Find MatchCase "º"
 Replace All "o"
-Top
 Find MatchCase "»"
 Replace All """
-Top
 Find MatchCase "¼"
 Replace All "?"
-Top
 Find MatchCase "½"
 Replace All "?"
-Top
 Find MatchCase "¾"
 Replace All "?"
-Top
 Find MatchCase "¿"
 Replace All "?"
-Top
 Find MatchCase "À"
 Replace All "A"
-Top
 Find MatchCase "Á"
 Replace All "A"
-Top
 Find MatchCase "Â"
 Replace All "A"
-Top
 Find MatchCase "Ã"
 Replace All "A"
-Top
 Find MatchCase "Ä"
 Replace All "A"
-Top
 Find MatchCase "Å"
 Replace All "A"
-Top
 Find MatchCase "Æ"
 Replace All "A"
-Top
 Find MatchCase "Ç"
 Replace All "C"
-Top
 Find MatchCase "È"
 Replace All "E"
-Top
 Find MatchCase "É"
 Replace All "E"
-Top
 Find MatchCase "Ê"
 Replace All "E"
-Top
 Find MatchCase "Ë"
 Replace All "E"
-Top
 Find MatchCase "Ì"
 Replace All "I"
-Top
 Find MatchCase "Í"
 Replace All "I"
-Top
 Find MatchCase "Î"
 Replace All "I"
-Top
 Find MatchCase "Ï"
 Replace All "I"
-Top
 Find MatchCase "Ð"
 Replace All "D"
-Top
 Find MatchCase "Ñ"
 Replace All "N"
-Top
 Find MatchCase "Ò"
 Replace All "O"
-Top
 Find MatchCase "Ó"
 Replace All "O"
-Top
 Find MatchCase "Ô"
 Replace All "O"
-Top
 Find MatchCase "Õ"
 Replace All "O"
-Top
 Find MatchCase "Ö"
 Replace All "O"
-Top
 Find MatchCase "×"
 Replace All "x"
-Top
 Find MatchCase "Ø"
 Replace All "O"
-Top
 Find MatchCase "Ù"
 Replace All "U"
-Top
 Find MatchCase "Ú"
 Replace All "U"
-Top
 Find MatchCase "Û"
 Replace All "U"
-Top
 Find MatchCase "Ü"
 Replace All "U"
-Top
 Find MatchCase "Ý"
 Replace All "Y"
-Top
 Find MatchCase "Þ"
 Replace All "p"
-Top
 Find MatchCase "ß"
 Replace All "B"
-Top
 Find MatchCase "à"
 Replace All "a"
-Top
 Find MatchCase "á"
 Replace All "á"
-Top
 Find MatchCase "â"
 Replace All "a"
-Top
 Find MatchCase "ã"
 Replace All "a"
-Top
 Find MatchCase "ä"
 Replace All "a"
-Top
 Find MatchCase "å"
 Replace All "a"
-Top
 Find MatchCase "æ"
 Replace All "e"
-Top
 Find MatchCase "ç"
 Replace All "c"
-Top
 Find MatchCase "è"
 Replace All "e"
-Top
 Find MatchCase "é"
 Replace All "e"
-Top
 Find MatchCase "ê"
 Replace All "e"
-Top
 Find MatchCase "ë"
 Replace All "e"
-Top
 Find MatchCase "ì"
 Replace All "i"
-Top
 Find MatchCase "í"
 Replace All "i"
-Top
 Find MatchCase "î"
 Replace All "i"
-Top
 Find MatchCase "ï"
 Replace All "i"
-Top
 Find MatchCase "ð"
 Replace All "a"
-Top
 Find MatchCase "ñ"
 Replace All "n"
-Top
 Find MatchCase "ò"
 Replace All "o"
-Top
 Find MatchCase "ó"
 Replace All "o"
-Top
 Find MatchCase "ô"
 Replace All "o"
-Top
 Find MatchCase "õ"
 Replace All "o"
-Top
 Find MatchCase "ö"
 Replace All "o"
-Top
 Find MatchCase "÷"
 Replace All "/"
-Top
 Find MatchCase "ø"
 Replace All "o"
-Top
 Find MatchCase "ù"
 Replace All "u"
-Top
 Find MatchCase "ú"
 Replace All "u"
-Top
 Find MatchCase "û"
 Replace All "u"
-Top
 Find MatchCase "ü"
 Replace All "u"
-Top
 Find MatchCase "ý"
 Replace All "y"
-Top
 Find MatchCase "þ"
 Replace All "P"
-Top
 Find MatchCase "ÿ"
 Replace All "y"
+Find MatchCase "…"
+Replace All "."
+Find MatchCase "ˆ"
+Replace All " "
+HexOn
+Find MatchCase "8D"
+Replace All "20"
+Find MatchCase "81"
+Replace All "20"
+Find MatchCase "8F"
+Replace All "20"
+Find MatchCase "90"
+Replace All "20"
+Find MatchCase "9D"
+Replace All "20"
+Find MatchCase "A0"
+Replace All "20"
+Find MatchCase "AD"
+Replace All "20"
