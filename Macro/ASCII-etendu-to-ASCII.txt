@@ -1,264 +1,391 @@
 InsertMode
 ColumnModeOff
-HexOff
-UltraEditReOn
-Find MatchCase "€"
-Replace All "E"
-Find MatchCase "ƒ"
-Replace All "f"
-Find MatchCase """
-Replace All """
-Find MatchCase "†"
-Replace All " "
-Find MatchCase "‡"
-Replace All " "
-Find MatchCase "^"
-Replace All " "
-Find MatchCase "ˆ"
-Replace All " "
-Find MatchCase "‰"
-Replace All "%"
-Find MatchCase "Š"
-Replace All "S"
-Find MatchCase "‹"
-Replace All "-"
-Find MatchCase "Œ"
-Replace All "e"
-Find MatchCase "Œ"
-Replace All "E"
-Find MatchCase "Ž"
-Replace All "Z"
-Find MatchCase "‘"
-Replace All "'"
-Find MatchCase "’"
-Replace All "'"
-Find MatchCase "“"
-Replace All """
-Find MatchCase "”"
-Replace All """
-Find MatchCase "•"
-Replace All "."
-Find MatchCase "–"
-Replace All "-"
-Find MatchCase "—"
-Replace All "-"
-Find MatchCase "˜"
-Replace All " "
-Find MatchCase "™"
-Replace All " "
-Find MatchCase "š"
-Replace All "s"
-Find MatchCase "›"
-Replace All "-"
-Find MatchCase "œ"
-Replace All "e"
-Find MatchCase "ž"
-Replace All "z"
-Find MatchCase "Ÿ"
-Replace All "Y"
-Find MatchCase "¡"
-Replace All "i"
-Find MatchCase "¢"
-Replace All "c"
-Find MatchCase "£"
-Replace All "L"
-Find MatchCase "¤"
-Replace All "x"
-Find MatchCase "¥"
-Replace All "Y"
-Find MatchCase "¦"
-Replace All "|"
-Find MatchCase "§"
-Replace All " "
-Find MatchCase "¨"
-Replace All " "
-Find MatchCase "©"
-Replace All "C"
-Find MatchCase "ª"
-Replace All "a"
-Find MatchCase "«"
-Replace All """
-Find MatchCase "¬"
-Replace All "-"
-Find MatchCase "®"
-Replace All "R"
-Find MatchCase "¯"
-Replace All "-"
-Find MatchCase "°"
-Replace All "o"
-Find MatchCase "±"
-Replace All "?"
-Find MatchCase "²"
-Replace All "2"
-Find MatchCase "³"
-Replace All "3"
-Find MatchCase "´"
-Replace All "'"
-Find MatchCase "µ"
-Replace All "u"
-Find MatchCase "¶"
-Replace All " "
-Find MatchCase "·"
-Replace All "."
-Find MatchCase "¸"
-Replace All ","
-Find MatchCase "¹"
-Replace All "1"
-Find MatchCase "º"
-Replace All "o"
-Find MatchCase "»"
-Replace All """
-Find MatchCase "¼"
-Replace All " "
-Find MatchCase "½"
-Replace All " "
-Find MatchCase "¾"
-Replace All " "
-Find MatchCase "¿"
-Replace All " "
-Find MatchCase "À"
-Replace All "A"
-Find MatchCase "Á"
-Replace All "A"
-Find MatchCase "Â"
-Replace All "A"
-Find MatchCase "Ã"
-Replace All "A"
-Find MatchCase "Ä"
-Replace All "A"
-Find MatchCase "Å"
-Replace All "A"
-Find MatchCase "Æ"
-Replace All "A"
-Find MatchCase "Ç"
-Replace All "C"
-Find MatchCase "È"
-Replace All "E"
-Find MatchCase "É"
-Replace All "E"
-Find MatchCase "Ê"
-Replace All "E"
-Find MatchCase "Ë"
-Replace All "E"
-Find MatchCase "Ì"
-Replace All "I"
-Find MatchCase "Í"
-Replace All "I"
-Find MatchCase "Î"
-Replace All "I"
-Find MatchCase "Ï"
-Replace All "I"
-Find MatchCase "Ð"
-Replace All "D"
-Find MatchCase "Ñ"
-Replace All "N"
-Find MatchCase "Ò"
-Replace All "O"
-Find MatchCase "Ó"
-Replace All "O"
-Find MatchCase "Ô"
-Replace All "O"
-Find MatchCase "Õ"
-Replace All "O"
-Find MatchCase "Ö"
-Replace All "O"
-Find MatchCase "×"
-Replace All "x"
-Find MatchCase "Ø"
-Replace All "O"
-Find MatchCase "Ù"
-Replace All "U"
-Find MatchCase "Ú"
-Replace All "U"
-Find MatchCase "Û"
-Replace All "U"
-Find MatchCase "Ü"
-Replace All "U"
-Find MatchCase "Ý"
-Replace All "Y"
-Find MatchCase "Þ"
-Replace All "p"
-Find MatchCase "ß"
-Replace All "B"
-Find MatchCase "à"
-Replace All "a"
-Find MatchCase "á"
-Replace All "á"
-Find MatchCase "â"
-Replace All "a"
-Find MatchCase "ã"
-Replace All "a"
-Find MatchCase "ä"
-Replace All "a"
-Find MatchCase "å"
-Replace All "a"
-Find MatchCase "æ"
-Replace All "e"
-Find MatchCase "ç"
-Replace All "c"
-Find MatchCase "è"
-Replace All "e"
-Find MatchCase "é"
-Replace All "e"
-Find MatchCase "ê"
-Replace All "e"
-Find MatchCase "ë"
-Replace All "e"
-Find MatchCase "ì"
-Replace All "i"
-Find MatchCase "í"
-Replace All "i"
-Find MatchCase "î"
-Replace All "i"
-Find MatchCase "ï"
-Replace All "i"
-Find MatchCase "ð"
-Replace All "a"
-Find MatchCase "ñ"
-Replace All "n"
-Find MatchCase "ò"
-Replace All "o"
-Find MatchCase "ó"
-Replace All "o"
-Find MatchCase "ô"
-Replace All "o"
-Find MatchCase "õ"
-Replace All "o"
-Find MatchCase "ö"
-Replace All "o"
-Find MatchCase "÷"
-Replace All "/"
-Find MatchCase "ø"
-Replace All "o"
-Find MatchCase "ù"
-Replace All "u"
-Find MatchCase "ú"
-Replace All "u"
-Find MatchCase "û"
-Replace All "u"
-Find MatchCase "ü"
-Replace All "u"
-Find MatchCase "ý"
-Replace All "y"
-Find MatchCase "þ"
-Replace All "P"
-Find MatchCase "ÿ"
-Replace All "y"
-Find MatchCase "…"
-Replace All "."
 HexOn
-Find MatchCase "8D"
+Top
+Find MatchCase "80"
 Replace All "20"
+Top
 Find MatchCase "81"
 Replace All "20"
+Top
+Find MatchCase "82"
+Replace All "20"
+Top
+Find MatchCase "83"
+Replace All "20"
+Top
+Find MatchCase "84"
+Replace All "20"
+Top
+Find MatchCase "85"
+Replace All "20"
+Top
+Find MatchCase "86"
+Replace All "20"
+Top
+Find MatchCase "87"
+Replace All "20"
+Top
+Find MatchCase "88"
+Replace All "20"
+Top
+Find MatchCase "89"
+Replace All "20"
+Top
+Find MatchCase "8A"
+Replace All "20"
+Top
+Find MatchCase "8B"
+Replace All "20"
+Top
+Find MatchCase "8C"
+Replace All "20"
+Top
+Find MatchCase "8D"
+Replace All "20"
+Top
+Find MatchCase "8E"
+Replace All "20"
+Top
 Find MatchCase "8F"
 Replace All "20"
+Top
 Find MatchCase "90"
 Replace All "20"
+Top
+Find MatchCase "91"
+Replace All "20"
+Top
+Find MatchCase "92"
+Replace All "20"
+Top
+Find MatchCase "93"
+Replace All "20"
+Top
+Find MatchCase "94"
+Replace All "20"
+Top
+Find MatchCase "95"
+Replace All "20"
+Top
+Find MatchCase "96"
+Replace All "20"
+Top
+Find MatchCase "97"
+Replace All "20"
+Top
+Find MatchCase "98"
+Replace All "20"
+Top
+Find MatchCase "99"
+Replace All "20"
+Top
+Find MatchCase "9A"
+Replace All "20"
+Top
+Find MatchCase "9B"
+Replace All "20"
+Top
+Find MatchCase "9C"
+Replace All "20"
+Top
 Find MatchCase "9D"
 Replace All "20"
+Top
+Find MatchCase "9E"
+Replace All "20"
+Top
+Find MatchCase "9F"
+Replace All "20"
+Top
 Find MatchCase "A0"
 Replace All "20"
+Top
+Find MatchCase "A1"
+Replace All "20"
+Top
+Find MatchCase "A2"
+Replace All "20"
+Top
+Find MatchCase "A3"
+Replace All "20"
+Top
+Find MatchCase "A4"
+Replace All "20"
+Top
+Find MatchCase "A5"
+Replace All "20"
+Top
+Find MatchCase "A6"
+Replace All "20"
+Top
+Find MatchCase "A7"
+Replace All "20"
+Top
+Find MatchCase "A8"
+Replace All "20"
+Top
+Find MatchCase "A9"
+Replace All "20"
+Top
+Find MatchCase "AA"
+Replace All "20"
+Top
+Find MatchCase "AB"
+Replace All "20"
+Top
+Find MatchCase "AC"
+Replace All "20"
+Top
 Find MatchCase "AD"
 Replace All "20"
+Top
+Find MatchCase "AE"
+Replace All "20"
+Top
+Find MatchCase "AF"
+Replace All "20"
+Top
+Find MatchCase "B0"
+Replace All "20"
+Top
+Find MatchCase "B1"
+Replace All "20"
+Top
+Find MatchCase "B2"
+Replace All "20"
+Top
+Find MatchCase "B3"
+Replace All "20"
+Top
+Find MatchCase "B4"
+Replace All "20"
+Top
+Find MatchCase "B5"
+Replace All "20"
+Top
+Find MatchCase "B6"
+Replace All "20"
+Top
+Find MatchCase "B7"
+Replace All "20"
+Top
+Find MatchCase "B8"
+Replace All "20"
+Top
+Find MatchCase "B9"
+Replace All "20"
+Top
+Find MatchCase "BA"
+Replace All "20"
+Top
+Find MatchCase "BB"
+Replace All "20"
+Top
+Find MatchCase "BC"
+Replace All "20"
+Top
+Find MatchCase "BD"
+Replace All "20"
+Top
+Find MatchCase "BE"
+Replace All "20"
+Top
+Find MatchCase "BF"
+Replace All "20"
+Top
+Find MatchCase "C0"
+Replace All "20"
+Top
+Find MatchCase "C1"
+Replace All "20"
+Top
+Find MatchCase "C2"
+Replace All "20"
+Top
+Find MatchCase "C3"
+Replace All "20"
+Top
+Find MatchCase "C4"
+Replace All "20"
+Top
+Find MatchCase "C5"
+Replace All "20"
+Top
+Find MatchCase "C6"
+Replace All "20"
+Top
+Find MatchCase "C7"
+Replace All "20"
+Top
+Find MatchCase "C8"
+Replace All "20"
+Top
+Find MatchCase "C9"
+Replace All "20"
+Top
+Find MatchCase "CA"
+Replace All "20"
+Top
+Find MatchCase "CB"
+Replace All "20"
+Top
+Find MatchCase "CC"
+Replace All "20"
+Top
+Find MatchCase "CD"
+Replace All "20"
+Top
+Find MatchCase "CE"
+Replace All "20"
+Top
+Find MatchCase "CF"
+Replace All "20"
+Top
+Find MatchCase "D0"
+Replace All "20"
+Top
+Find MatchCase "D1"
+Replace All "20"
+Top
+Find MatchCase "D2"
+Replace All "20"
+Top
+Find MatchCase "D3"
+Replace All "20"
+Top
+Find MatchCase "D4"
+Replace All "20"
+Top
+Find MatchCase "D5"
+Replace All "20"
+Top
+Find MatchCase "D6"
+Replace All "20"
+Top
+Find MatchCase "D7"
+Replace All "20"
+Top
+Find MatchCase "D8"
+Replace All "20"
+Top
+Find MatchCase "D9"
+Replace All "20"
+Top
+Find MatchCase "DA"
+Replace All "20"
+Top
+Find MatchCase "DB"
+Replace All "20"
+Top
+Find MatchCase "DC"
+Replace All "20"
+Top
+Find MatchCase "DD"
+Replace All "20"
+Top
+Find MatchCase "DE"
+Replace All "20"
+Top
+Find MatchCase "DF"
+Replace All "20"
+Top
+Find MatchCase "E0"
+Replace All "20"
+Top
+Find MatchCase "E1"
+Replace All "20"
+Top
+Find MatchCase "E2"
+Replace All "20"
+Top
+Find MatchCase "E3"
+Replace All "20"
+Top
+Find MatchCase "E4"
+Replace All "20"
+Top
+Find MatchCase "E5"
+Replace All "20"
+Top
+Find MatchCase "E6"
+Replace All "20"
+Top
+Find MatchCase "E7"
+Replace All "20"
+Top
+Find MatchCase "E8"
+Replace All "20"
+Top
+Find MatchCase "E9"
+Replace All "20"
+Top
+Find MatchCase "EA"
+Replace All "20"
+Top
+Find MatchCase "EB"
+Replace All "20"
+Top
+Find MatchCase "EC"
+Replace All "20"
+Top
+Find MatchCase "ED"
+Replace All "20"
+Top
+Find MatchCase "EE"
+Replace All "20"
+Top
+Find MatchCase "EF"
+Replace All "20"
+Top
+Find MatchCase "F0"
+Replace All "20"
+Top
+Find MatchCase "F1"
+Replace All "20"
+Top
+Find MatchCase "F2"
+Replace All "20"
+Top
+Find MatchCase "F3"
+Replace All "20"
+Top
+Find MatchCase "F4"
+Replace All "20"
+Top
+Find MatchCase "F5"
+Replace All "20"
+Top
+Find MatchCase "F6"
+Replace All "20"
+Top
+Find MatchCase "F7"
+Replace All "20"
+Top
+Find MatchCase "F8"
+Replace All "20"
+Top
+Find MatchCase "F9"
+Replace All "20"
+Top
+Find MatchCase "FA"
+Replace All "20"
+Top
+Find MatchCase "FB"
+Replace All "20"
+Top
+Find MatchCase "FC"
+Replace All "20"
+Top
+Find MatchCase "FD"
+Replace All "20"
+Top
+Find MatchCase "FE"
+Replace All "20"
+Top
+Find MatchCase "FF"
+Replace All "20"
 HexOff
+Top
+Find MatchCase "	"
+Replace All " "
