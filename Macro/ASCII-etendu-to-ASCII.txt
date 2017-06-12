@@ -2,6 +2,9 @@ InsertMode
 ColumnModeOff
 HexOn
 Top
+Find MatchCase "00"
+Replace All "20"
+Top
 Find MatchCase "80"
 Replace All "20"
 Top
